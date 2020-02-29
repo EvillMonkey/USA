@@ -1,287 +1,97 @@
-#EXTM3U
-#EXTINF:-1,AMC [RO]
-http://ch01.spr24.net/22312/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Animal Planet HD [RO]
-http://ch01.spr24.net/22370/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Animal Planet [RO]
-http://ch01.spr24.net/22349/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Antena 1 HD
-http://ch01.spr24.net/22388/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Antena 1
-http://ch01.spr24.net/22315/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Antena 3 HD
-http://ch01.spr24.net/22389/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Antena 3
-http://ch01.spr24.net/22314/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Antena Stars HD
-http://ch01.spr24.net/22390/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Antena Stars
-http://ch01.spr24.net/22311/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Auto Motor Sport [RO]
-http://ch01.spr24.net/22989/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,AXN HD [RO]
-http://ch01.spr24.net/22399/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,AXN [RO]
-http://ch01.spr24.net/22305/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,AXN Black
-http://ch01.spr24.net/22317/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,AXN SPIN
-http://ch01.spr24.net/22909/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,AXN White [RO]
-http://ch01.spr24.net/22313/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,B1
-http://ch01.spr24.net/22377/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,BBC Earth
-http://ch01.spr24.net/23070/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Bollywood TV
-http://ch01.spr24.net/22992/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Bucuresti TV
-http://ch01.spr24.net/22970/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Cartoon Network [RO]
-http://ch01.spr24.net/22338/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Cbs Reality [RO]
-http://ch01.spr24.net/22991/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Cinemax HD [RO]
-http://ch01.spr24.net/22366/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Cinemax
-http://ch01.spr24.net/22358/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Cinemax 2
-http://ch01.spr24.net/22359/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Cinethronix
-http://ch01.spr24.net/23071/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Comedy Central [RO]
-http://ch01.spr24.net/22935/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Credo TV
-http://ch01.spr24.net/22987/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Da Vinci Learning [RO]
-http://ch01.spr24.net/22360/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI 24 HD
-http://ch01.spr24.net/22900/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI 24
-http://ch01.spr24.net/22919/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI ANIMAL WORLD HD
-http://ch01.spr24.net/22960/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://ch01.spr24.net/22923/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI FILM HD
-http://ch01.spr24.net/22385/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI FILM
-http://ch01.spr24.net/22910/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Life HD
-http://ch01.spr24.net/22961/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Life
-http://ch01.spr24.net/22920/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Sport 1
-http://ch01.spr24.net/22937/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Sport 2 HD
-http://ch01.spr24.net/22382/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Sport 3 HD
-http://ch01.spr24.net/22394/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Sport 3
-http://ch01.spr24.net/22924/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Sport 4 HD
-http://ch01.spr24.net/22967/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI Sport 4
-http://ch01.spr24.net/22938/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI WORLD HD
-http://ch01.spr24.net/22962/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DIGI WORLD
-http://ch01.spr24.net/22916/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Discovery
-http://ch01.spr24.net/22340/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Discovery ID
-http://ch01.spr24.net/22326/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Discovery Science [RO]
-http://ch01.spr24.net/22325/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Discovery Showcase HD
-http://ch01.spr24.net/22964/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Disney Jr [RO]
-http://ch01.spr24.net/22339/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Diva
-http://ch01.spr24.net/22917/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DocuBox
-http://ch01.spr24.net/22981/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DOQ
-http://ch01.spr24.net/22303/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,DTX [RO]
-http://ch01.spr24.net/22942/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,ducktv
-http://ch01.spr24.net/22980/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,E! Entertainment HD [RO]
-http://ch01.spr24.net/22391/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,E! Entertainment [RO]
-http://ch01.spr24.net/22908/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Epic Drama
-http://ch01.spr24.net/23069/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Etno
-http://ch01.spr24.net/22939/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Eurosport 1 HD [RO]
-http://ch01.spr24.net/22375/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Eurosport 1 [RO]
-http://ch01.spr24.net/22328/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Eurosport 2 HD [RO]
-http://ch01.spr24.net/22376/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Eurosport 2 [RO]
-http://ch01.spr24.net/22329/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Extreme Sport
-http://ch01.spr24.net/22336/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Favorit TV
-http://ch01.spr24.net/22354/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,FightBox
-http://ch01.spr24.net/22982/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Film Box Extra HD
-http://ch01.spr24.net/22379/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Film Cafe
-http://ch01.spr24.net/22319/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Filmbox Family [RO]
-http://ch01.spr24.net/22975/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,FilmBox Plus INT
-http://ch01.spr24.net/22976/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,FilmBox Premium [RO]
-http://ch01.spr24.net/22974/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Fine Living [RO]
-http://ch01.spr24.net/22946/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Food Network [RO]
-http://ch01.spr24.net/22977/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Happy Channel HD
-http://ch01.spr24.net/22952/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Happy Channel
-http://ch01.spr24.net/22309/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HBO HD [RO]
-http://ch01.spr24.net/22367/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HBO 2 HD [RO]
-http://ch01.spr24.net/22392/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HBO 2
-http://ch01.spr24.net/22941/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HBO 3 HD [RO]
-http://ch01.spr24.net/22368/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HBO 3
-http://ch01.spr24.net/22911/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HBO Romania
-http://ch01.spr24.net/22912/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,History HD [RO]
-http://ch01.spr24.net/22396/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,History [RO]
-http://ch01.spr24.net/22343/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,HIT MUSIC
-http://ch01.spr24.net/22940/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Hora TV
-http://ch01.spr24.net/22934/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Inedit TV
-http://ch01.spr24.net/22904/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Kanal D HD [RO]
-http://ch01.spr24.net/22365/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,KANAL D [RO]
-http://ch01.spr24.net/22932/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Kiss TV
-http://ch01.spr24.net/22334/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Look Plus HD
-http://ch01.spr24.net/23072/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Look Plus
-http://ch01.spr24.net/22374/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Look Sport
-http://ch01.spr24.net/22928/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,N/A
-http://ch01.spr24.net/23073/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Megamax
-http://ch01.spr24.net/22327/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,MEZZO
-http://ch01.spr24.net/22902/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Mooz Dance HD
-http://ch01.spr24.net/22995/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,MTV Dance [RO]
-http://ch01.spr24.net/22350/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,MTV Hits [RO]
-http://ch01.spr24.net/22353/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,MTV Rocks [RO]
-http://ch01.spr24.net/22351/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Music Channel
-http://ch01.spr24.net/22335/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Nasul TV
-http://ch01.spr24.net/22905/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Nat Geo
-http://ch01.spr24.net/22922/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Nat Geo Wild HD [RO]
-http://ch01.spr24.net/22901/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Nat Geo Wild [RO]
-http://ch01.spr24.net/22929/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,NATIONAL 24 Plus
-http://ch01.spr24.net/22308/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,National Geographic HD [RO]
-http://ch01.spr24.net/22373/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,National TV
-http://ch01.spr24.net/22361/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Neptun TV
-http://ch01.spr24.net/22906/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Nick Jr [RO]
-http://ch01.spr24.net/22973/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Nickelodeon [RO]
-http://ch01.spr24.net/22346/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Paramount channel [RO]
-http://ch01.spr24.net/22345/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Prima TV
-http://ch01.spr24.net/22378/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Pro Cinema
-http://ch01.spr24.net/22316/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Pro TV
-http://ch01.spr24.net/22381/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,PRO TV INTERNATIONAL
-http://ch01.spr24.net/22993/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Realitatea TV
-http://ch01.spr24.net/22330/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Romania TV
-http://ch01.spr24.net/22331/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,PRO X HD
-http://ch01.spr24.net/22371/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,PRO X
-http://ch01.spr24.net/22342/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Sundance TV
-http://ch01.spr24.net/22978/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Telekom Sport 1 HD
-http://ch01.spr24.net/22985/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Telekom Sport 2 HD
-http://ch01.spr24.net/22986/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Telekom Sport 3 HD
-http://ch01.spr24.net/22998/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Telekom Sport 4 HD
-http://ch01.spr24.net/22999/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TLC [RO]
-http://ch01.spr24.net/22341/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TNT
-http://ch01.spr24.net/22947/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Travel Channel HD [RO]
-http://ch01.spr24.net/22397/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Travel Channel [RO]
-http://ch01.spr24.net/22925/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Travel Mix
-http://ch01.spr24.net/22323/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TRINITAS TV
-http://ch01.spr24.net/22979/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TV Paprika
-http://ch01.spr24.net/22324/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TV1000 [RO]
-http://ch01.spr24.net/22304/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TVR HD
-http://ch01.spr24.net/22384/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,TVR3
-http://ch01.spr24.net/22302/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,UTV HD
-http://ch01.spr24.net/22956/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,UTV
-http://ch01.spr24.net/22918/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,VH1 [RO]
-http://ch01.spr24.net/22936/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,VH1 Classic
-http://ch01.spr24.net/22352/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Viasat Explore [RO]
-http://ch01.spr24.net/22357/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Viasat Nature [RO]
-http://ch01.spr24.net/22959/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Viasat History [RO]
-http://ch01.spr24.net/22356/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Zu TV
-http://ch01.spr24.net/22347/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,SuperONE HD
-http://ch01.spr24.net/22387/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,SuperOne
-http://ch01.spr24.net/22913/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:-1,USA | OXYGEN (Lt)
+http://tv5full.xyz:25461/live/jesuschoque/12345/903.m3u8
+#EXTINF:-1,USA | LAW and Order (A)
+http://tv5full.xyz:25461/live/jesuschoque/12345/905.m3u8
+#EXTINF:-1,USA | HBO SIGN (p)
+http://tv5full.xyz:25461/live/jesuschoque/12345/909.m3u8
+#EXTINF:-1,USA | HBO PAC (T)
+http://tv5full.xyz:25461/live/jesuschoque/12345/911.m3u8
+#EXTINF:-1,Dmx:TUDN USA (A).
+http://tv5full.xyz:25461/live/jesuschoque/12345/912.m3u8
+#EXTINF:-1,USA | Discovery ID
+http://tv5full.xyz:25461/live/jesuschoque/12345/3762.m3u8
+#EXTINF:-1,USA | CNBC
+http://tv5full.xyz:25461/live/jesuschoque/12345/3763.m3u8
+#EXTINF:-1,USA | CNN
+http://tv5full.xyz:25461/live/jesuschoque/12345/3764.m3u8
+#EXTINF:-1,USA | Destination America
+http://tv5full.xyz:25461/live/jesuschoque/12345/3765.m3u8
+#EXTINF:-1,USA | Discovery Life
+http://tv5full.xyz:25461/live/jesuschoque/12345/3767.m3u8
+#EXTINF:-1,USA | Discovery Science
+http://tv5full.xyz:25461/live/jesuschoque/12345/3768.m3u8
+#EXTINF:-1,USA | Food Network
+http://tv5full.xyz:25461/live/jesuschoque/12345/3769.m3u8
+#EXTINF:-1,USA | FX
+http://tv5full.xyz:25461/live/jesuschoque/12345/3770.m3u8
+#EXTINF:-1,USA | Hallmark
+http://tv5full.xyz:25461/live/jesuschoque/12345/3771.m3u8
+#EXTINF:-1,USA | Hallmark Drama
+http://tv5full.xyz:25461/live/jesuschoque/12345/3772.m3u8
+#EXTINF:-1,USA | History Channel
+http://tv5full.xyz:25461/live/jesuschoque/12345/3773.m3u8
+#EXTINF:-1,USA | Lifetime
+http://tv5full.xyz:25461/live/jesuschoque/12345/3774.m3u8
+#EXTINF:-1,USA | Nat Geo
+http://tv5full.xyz:25461/live/jesuschoque/12345/3775.m3u8
+#EXTINF:-1,USA | Nat Geo Wild
+http://tv5full.xyz:25461/live/jesuschoque/12345/3776.m3u8
+#EXTINF:-1,USA | PBS KIDS
+http://tv5full.xyz:25461/live/jesuschoque/12345/3777.m3u8
+#EXTINF:-1,USA | SyFy
+http://tv5full.xyz:25461/live/jesuschoque/12345/3778.m3u8
+#EXTINF:-1,USA | TBS
+http://tv5full.xyz:25461/live/jesuschoque/12345/3779.m3u8
+#EXTINF:-1,USA | The Weather Channel
+http://tv5full.xyz:25461/live/jesuschoque/12345/3781.m3u8
+#EXTINF:-1,USA | TLC
+http://tv5full.xyz:25461/live/jesuschoque/12345/3782.m3u8
+#EXTINF:-1,USA | Travel Channel
+http://tv5full.xyz:25461/live/jesuschoque/12345/3783.m3u8
+#EXTINF:-1,USA | TruTV
+http://tv5full.xyz:25461/live/jesuschoque/12345/3784.m3u8
+#EXTINF:-1,USA | E!
+http://tv5full.xyz:25461/live/jesuschoque/12345/3785.m3u8
+#EXTINF:-1,USA | Galavision
+http://tv5full.xyz:25461/live/jesuschoque/12345/3786.m3u8
+#EXTINF:-1,USA | Univision
+http://tv5full.xyz:25461/live/jesuschoque/12345/3787.m3u8
+#EXTINF:-1,USA | NBC Universo
+http://tv5full.xyz:25461/live/jesuschoque/12345/3788.m3u8
+#EXTINF:-1,USA | Discovery Familia
+http://tv5full.xyz:25461/live/jesuschoque/12345/3789.m3u8
+#EXTINF:-1,Discovery en Español
+http://tv5full.xyz:25461/live/jesuschoque/12345/3790.m3u8
+#EXTINF:-1,Natgeo mundo
+http://tv5full.xyz:25461/live/jesuschoque/12345/3791.m3u8
+#EXTINF:-1,USA | Cartoon Network
+http://tv5full.xyz:25461/live/jesuschoque/12345/3792.m3u8
+#EXTINF:-1,USA | Disney Channel
+http://tv5full.xyz:25461/live/jesuschoque/12345/3793.m3u8
+#EXTINF:-1,USA | Disney Jr
+http://tv5full.xyz:25461/live/jesuschoque/12345/3794.m3u8
+#EXTINF:-1,USA | Cinemax East
+http://tv5full.xyz:25461/live/jesuschoque/12345/3795.m3u8
+#EXTINF:-1,USA | EPIX
+http://tv5full.xyz:25461/live/jesuschoque/12345/3796.m3u8
+#EXTINF:-1,USA | Showtime
+http://tv5full.xyz:25461/live/jesuschoque/12345/3797.m3u8
+#EXTINF:-1,USA | Showtime 2
+http://tv5full.xyz:25461/live/jesuschoque/12345/3798.m3u8
+#EXTINF:-1,USA | Showtime Showcase
+http://tv5full.xyz:25461/live/jesuschoque/12345/3799.m3u8
+#EXTINF:-1,USA | Showtime Extreme
+http://tv5full.xyz:25461/live/jesuschoque/12345/3800.m3u8
+#EXTINF:-1,USA | Starz Encore Western (Stability Test)
+http://tv5full.xyz:25461/live/jesuschoque/12345/3801.m3u8
+#EXTINF:-1,USA | Starz
+http://tv5full.xyz:25461/live/jesuschoque/12345/3802.m3u8
+#EXTINF:-1,USA | Starz Black
+http://tv5full.xyz:25461/live/jesuschoque/12345/3803.m3u8
+#EXTINF:-1,USA | HBO ZONE
+http://tv5full.xyz:25461/live/jesuschoque/12345/3804.m3u8
+#EXTINF:-1,USA | STARZ ESP
+http://tv5full.xyz:25461/live/jesuschoque/12345/3805.m3u8
+#EXTINF:-1,USA | STARZ EDGE
+http://tv5full.xyz:25461/live/jesuschoque/12345/3806.m3u8
+#EXTINF:-1,USA | SHOWTIME ESP
